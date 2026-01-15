@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Currently studying at IIIT BBSR🌱 Currently learning Backend Development (MongoDB & Express.js), ML and data structures and algorithms
+🔭 Currently studying at IIIT BBSR
+🌱 Currently learning Backend Development (MongoDB & Express.js), ML and data structures and algorithms
 
 
 ## 🌐 Socials:
